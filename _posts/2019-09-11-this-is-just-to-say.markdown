@@ -6,18 +6,18 @@ categories: jekyll update
 ---
 
 
-I have left
-the station
-on the street
-Market & 46
+I have left  
+the station  
+on the street  
+Market & 46  
 
-at which
-you were probably
-trying
-to catch
+at which  
+you were probably  
+trying  
+to catch  
 
-Forgive me
-was already running
-so late
+Forgive me  
+was already running  
+so late  
 and so in haste.
 

@@ -31,6 +31,3 @@ Timmy's health couldn't bide
 
 [subreddit-timmy]: https://www.reddit.com/r/TimmyFuckingDied
 [reddit-post]: https://www.reddit.com/r/TimmyFuckingDied/comments/d2fbgm/my_actual_homework_poem/
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/

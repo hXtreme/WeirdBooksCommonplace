@@ -2,7 +2,7 @@
 layout: post
 title:  "This is just to say"
 date:   2019-09-11 11:37:08 -0400
-categories: jekyll update
+categories: update
 ---
 
 
@@ -20,4 +20,3 @@ Forgive me
 was already running  
 so late  
 and so in haste.
-

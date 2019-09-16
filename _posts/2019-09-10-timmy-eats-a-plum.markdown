@@ -2,7 +2,7 @@
 layout: post
 title:  "Timmy eats a plum!"
 date:   2019-09-10 13:07:08 -0400
-categories: jekyll update
+categories: update
 ---
 
 

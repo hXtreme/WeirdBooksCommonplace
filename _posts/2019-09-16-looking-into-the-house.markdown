@@ -13,6 +13,6 @@ That I'll need to figure out as I read the book.
 
 Right after prepping me up for the maze it feels as thought the book is challenging or maybe even mocking me with "This is not for you".
 
-Reading throught the introduction it hints that maybe it could be another one of Zampano's attempt to dissuade the reader of his work, both Johnny Truant and me. While that could indeed have been the case it only made me more curious and at this point I am empathazing with Johnny's curiosity, which is worrisome given how adversely the text affects him. The scariest part for me is the fact that I am enjoying the thrill and anticipation of this mystery that could potentially change me.
+Reading throught the introduction, hints that maybe it could be another one of Zampano's attempt to dissuade the reader of his work, both Johnny Truant and me. While that could indeed have been the case it only made me more curious and at this point I am empathazing with Johnny's curiosity, which is worrisome given how adversely the text affects him. The scariest part for me is the fact that I am enjoying the thrill and anticipation of this mystery that could potentially change me.
 
 #### The Navidson Record

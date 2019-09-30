@@ -5,7 +5,8 @@ date:   2019-09-30 07:07:08 -0400
 categories: update
 ---
 
-Hello
+We shall start our attempt to map the house from within the labyrinth. Inside the labyrinth we find the footnote 166, written upside down. It comments on the monster that is the house and comparing it with other horror works. However we notice that the quotation directly references Navidson record, this means that the citation is bogus. This prompts us to look *at* the citation, we then immediately notice the unusual word 'Differance' where we would expect difference. This gives us our first clue to dive into the house.
+
 
 ![HOL-Starting-Point][HOL-Starting-Point]
 ![HOL-Starting-Point-Cont][HOL-Starting-Point-Cont]

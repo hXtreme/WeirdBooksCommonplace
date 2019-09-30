@@ -5,6 +5,10 @@ date:   2019-09-30 07:07:08 -0400
 categories:
 ---
 
+The alternate, but equally valid reading of the name 'It makes no Differance' points to the song witht he same name. While initially this reading may look like a strech, we see a lot of thing that are prominent in House of Leaves are mentioned i the song. It's at a level where it can not not be a valid reading.
+
+---
+
 It makes no difference [where I turn][HOL-turn]  
 I can't get over you and the flame still burns  
 It makes no difference, [night or day][HOL-night-day]  

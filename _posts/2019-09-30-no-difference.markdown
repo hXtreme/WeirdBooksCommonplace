@@ -5,7 +5,7 @@ date:   2019-09-30 07:07:08 -0400
 categories:
 ---
 
-The alternate, but equally valid reading of the name 'It makes no Differance' points to the song witht he same name. While initially this reading may look like a strech, we see a lot of thing that are prominent in House of Leaves are mentioned i the song. It's at a level where it can not not be a valid reading.
+The alternate, but equally valid reading of the name 'It makes no Differance' points to the song witht he same name. While initially this reading may look like a strech, we see a lot of thing that are prominent in House of Leaves are also mentioned in the song. It's at a level where it can't *not* be a valid reading.
 
 ---
 

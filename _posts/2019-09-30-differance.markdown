@@ -11,4 +11,11 @@ stands at understanding the relation between the 'at' reading and the
 
 > It makes no Differance(difference)
 
-We see that the book is teasing us that there is little to no difference between the 'at' and 'through' reading of the text and that either one independently makes very little sense. To add to this note that, to attempt to decipher this very footnote we had to take both typer of reading into consideration. 
+We see that the book is teasing us that there is little to no difference between the 'at' and 'through' reading of the text and that either one independently makes very little sense. To add to this note that, to attempt to decipher this very footnote we had to take both typer of reading into consideration. However to get to thisconclusion, we need that the reading '[It makes no Difference][No-Difference-IN]' is valid.
+
+
+
+<!-- In-Links -->
+[Differance-IN]: {{site.baseurl}}{% post_url 2019-09-30-differance %}
+[No-Difference-IN]: {{site.baseurl}}{% post_url 2019-09-30-no-difference %}
+[Footnote-Footnote]: {{site.baseurl}}{% post_url 2019-09-30-footnote-footnote %}

@@ -23,7 +23,7 @@ That dies untold
 But the clouds never hung so low before  
 
 It makes no difference [how far I go][HOL-far]  
-Like a scar, the hurt will always show  
+Like a scar, [the hurt will always show][HOL-cant-run]  
 And it makes no difference who I meet  
 They're just a face in the crowd on a dead-end street  
 
@@ -59,6 +59,7 @@ That [I never felt so alone before][HOL-alone]
 [door-1]: {{site.baseurl}}/assets/door-1.png
 [door-2]: {{site.baseurl}}/assets/door-2.jpg
 [HOL-far]: {{site.baseurl}}/assets/hol-far.png
+[HOL-cant-run]: {{site.baseurl}}/assets/hol-cant-run.png
 
 <!-- Out-Links -->
 [Differance-OUT-1]: https://web.stanford.edu/class/history34q/readings/Derrida/Differance.html

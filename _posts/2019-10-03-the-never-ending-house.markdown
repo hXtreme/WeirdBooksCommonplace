@@ -29,4 +29,9 @@ Within the book it manages to survive by taking root in the forest in the form o
 
 Studying each hop we can understand the tactics employed by the entity. Frankly speaking it's very simple but that's what makes it effective, a basic hook line and sinker act. 
 
-It baits it's host with a sense of mystery. Why are there stairs in the middle of nowhere? The dimensions of the house don't match up. What's behind that door? What is the movie trying to say? Is it a romance or horror? 
+It baits it's host with a sense of mystery. Why are there stairs in the middle of nowhere? The dimensions of the house don't match up. What's behind that door? What is the movie trying to say? Is it a romance or horror? What are all those pieces of paper? Why are the some refrences real and others fake?
+
+To understand these question I need to organize my thoughts, write it down clearly and precisely. Create a document on navigating the house. Exactly what the house wants. The house has taken host in me and everyone that tries to explain its features. Discussing, and arguing over the meaning of the house we generate more of the house.
+
+The House of Leaves will never end as long as I or anyone else is still writing about it.
+

@@ -5,6 +5,8 @@ date:   2019-10-18 07:07:08 -0400
 categories: update
 ---
 
+We've already discussed in class how weird books breakdown the most fundamental seperations that we hold. What's inside and outside the book? Who's the author? What's art and what's not. Here I present some music that does the same, they use profane to create art or use art to further or comment on profanity.
+
 ### Deoxys Beats - Del ecchi al Hentai
 A (debatably) good music produced by mixing in audio from porn in with a harmonious(I'm not a music expert so don't take my word for it) instruments.
 

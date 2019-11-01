@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Commonplace Book
-email: hpar.dev@gmail.com
+email: h.x.dev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog website that acts as Commonplace book for Weird Books course.
 baseurl: "/WeirdBooksCommonplace" # the subpath of your site, e.g. /blog
